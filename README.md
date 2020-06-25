@@ -26,3 +26,6 @@ Things to improve
 * Enable a user to use and generate VHDL/Verilog code.
 * Design app to be a WYSIWYG.
 * Add screen shot of canvas to export image. 
+
+
+github.com/ingridavendano/logiclayout
